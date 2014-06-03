@@ -1,0 +1,2 @@
+..\Fingerprint\5_1.tif ..\Fingerprint\templatefile.tif OK
+5_1.tif templatefile.tif OK
